@@ -16,6 +16,6 @@ link3
 ```
 
 Finally you can easily run the script by typing:
-```./debrid.sh```
+```$ ./debrid.sh```
 
 *Coming soon on discord...*
