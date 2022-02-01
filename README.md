@@ -9,7 +9,8 @@ On MacOS:
 ```$ brew install install curl html-xml-utils```
 
 Then add all your links in `links.txt` with a line return between each link:
-```link1
+```
+link1
 link2
 link3```
 
