@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 # Killianoni
 # 01/02/2021
 # Inspired by https://github.com/manuGMG
@@ -47,7 +47,8 @@ debrid() {
 		# Download file
 		if [[ -z "$DIRECT" ]]
 		then
-			err "Could not parse direct link"
+			# does nothing
+			:
 		else
 			info "Parsed direct link: $DIRECT\n"
 			break
