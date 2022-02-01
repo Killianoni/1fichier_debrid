@@ -12,7 +12,8 @@ Then add all your links in `links.txt` with a line return between each link:
 ```
 link1
 link2
-link3```
+link3
+```
 
 Finally you can easily run the script by typing:
 ```./debrid.sh```
